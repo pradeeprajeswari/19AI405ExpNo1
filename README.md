@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name:SUBHIKSHAA M</h3>
-<h3>Register Number: 212222230151</h3>
+<h3>Name:Pradeep E</h3>
+<h3>Register Number: 212223230149</h3>
 
 
 <h3>AIM:</h3>
@@ -43,9 +43,6 @@
 <H3>PROGRAM</H3>
 
 ```
-Developing AI Agent with PEAS Description
-Developed by: Aakash P
-RegisterNumber: 212222110001
 
 class VacuumCleanerAgent:
     def __init__(self):
